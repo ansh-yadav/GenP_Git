@@ -2,12 +2,12 @@
 
 - Cloning the repo to local directory 
   - `git clone https://github.com/JiyaVe/GenP_task.git`
-  - Created this repo with .gitignore and readme.md file and then again clone this
+  
 
 
 - Creating own repo and cloning as above
   - `git clone https://github.com/ansh-yadav/GenP_Git.git`
-
+  - Created this repo with .gitignore and readme.md file and then clone this
   - Copy Pasted filed from GenP_task -> GenP_Git
 
 - Staging and commit the new files locally
